@@ -1,5 +1,35 @@
+body {
+    background-color: rgb(158, 158, 158);
+}
+
 h1   {
 color: blue;
 font-size: 42px;
 font-family: "Comic Sans MS";
 }
+
+h2 {
+color: blue;
+font-size: 32px;
+font-family: "Comic Sans MS";
+}
+
+p, ul, li {
+    color: greenyellow;
+    font-size: 12;
+    font-family: fantasy;
+}  
+
+img {
+    border: 5px solid rgb(98, 236, 139);
+  }
+  
+table {
+    border:1px solid rgb(229, 0, 0);
+  }
+  th{
+    font-size: large;
+  }
+  td {
+    color: aqua;
+  }
